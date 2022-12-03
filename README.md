@@ -1,6 +1,6 @@
 ### Olá, visitante ! Eu sou o Adriano Ivan
 
-- 🔭 Atualmente sou estagiário, trabalhando com desenvolvimento web em React e C#
+- 🔭 Atualmente sou desenvolvedor de sistemas, trabalhando com desenvolvimento web em React e C#
 - 🌱 Estou na faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas
 - 📫 Você pode me contatar pelo email: adrianoivandepaulacampos@gmail.com
 - 😄 Pronouns: ele/dele
