@@ -3,7 +3,6 @@
 - 🔭 Atualmente sou desenvolvedor de sistemas, trabalhando com desenvolvimento web em React e C#
 - 🌱 Formado em Tecnologia em Análise e Desenvolvimento de Sistemas
 - 📫 Você pode me contatar pelo email: adrianoivandepaulacampos@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Adriano-Ivan">
