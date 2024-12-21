@@ -1,6 +1,6 @@
 ### Olá, visitante ! Eu sou o Adriano Ivan
 
-- 🔭 Atualmente sou desenvolvedor de sistemas, trabalhando com desenvolvimento web em React e C#
+- 🔭 Sou desenvolvedor de sistemas, trabalhando com desenvolvimento web em React e C#
 - 🌱 Formado em Tecnologia em Análise e Desenvolvimento de Sistemas
 - 📫 Você pode me contatar pelo email: adrianoivandepaulacampos@gmail.com
 
